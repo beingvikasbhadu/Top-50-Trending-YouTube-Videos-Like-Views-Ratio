@@ -26,7 +26,7 @@ To run this program you will require a API key. Register your API key by clickin
 ![Figure_1](https://user-images.githubusercontent.com/98146902/177005142-8c198208-4499-4795-a92c-621fbb82fa37.png)
 
 # :name_badge:License 
-This project is licensed under [MIT License](https://github.com/beingvikasbhadu/Automatically-Apply-Black-and-White-Effect-On-Images/blob/master/LICENSE) 2022 vikas bhadu
+This project is licensed under [MIT License](https://github.com/beingvikasbhadu/Top-50-Trending-YouTube-Videos-Like-Views-Ratio/blob/4d8523cb21a46b7565b6165ed779a4cf0683b2d4/LICENSE) 2022 vikas bhadu
 
 
 # :arrow_upper_right:Future Improvements
